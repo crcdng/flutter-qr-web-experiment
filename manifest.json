@@ -1,11 +1,11 @@
 {
-    "name": "qr_code_scan_web",
-    "short_name": "qr_code_scan_web",
+    "name": "qr_code_scan_web2",
+    "short_name": "qr_code_scan_web2",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "QR Code Scanner Test.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
